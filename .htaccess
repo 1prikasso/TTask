@@ -1,0 +1,2 @@
+SetEnv APP_ENV prod
+SetEnv DATABASE_URL 'mysql://oleksandr_shtonda_testtask:-oZ+-r_t%1qm{goC@127.0.0.1:3306/oleksandr_shtonda_testtask'
